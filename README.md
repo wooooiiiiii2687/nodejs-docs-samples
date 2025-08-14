@@ -1,4 +1,4 @@
-<img src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
+https://cloud.google.com/?hl=id
 
 # Google Cloud Platform Node.js Samples
 
@@ -71,4 +71,5 @@ View the [tutorial][bookshelf_docs] or the [source code][bookshelf_code].
 
 Contributions welcome! See the [Contributing Guide][contrib].
 
-[contrib]: CONTRIBUTING.md
+[contrib]: CONTRIB
+CONTRIle
