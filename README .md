@@ -1,5 +1,12 @@
 <img src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
+a. I never claimed it was mine
+b. I never updated my profile like that.
+and I'm currently researching data that has used my GitHub account
+c. Nowadays, many smart people pretend to be smart when they're just copying things, so I prefer to be stupid and keep quiet
+d. Those who always use other people's accounts for malicious repositories are nothing more than losers pretending to be winners, and that only applies in their minds, not to the public and in reality.
 
+
+The discussion applies to Page 9 and beyond.
 # Google Cloud Platform Node.js Samples
 
 Node.js samples for [Google Cloud Platform products][cloud].
